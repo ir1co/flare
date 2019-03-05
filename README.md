@@ -1,2 +1,2 @@
 # flare
-Lightweight enterprise framework for Java &amp; Kotlin
+Lightweight multi-service framework for Java &amp; Kotlin
